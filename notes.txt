@@ -1,0 +1,19 @@
+We can use z-index / use position of the entire element to be position relative
+
+Tools for making life easier
+
+autoprefixer - install the version 3.0.0
+when press command p and type ">" (angle bracket), and click on
+autoprefixer run
+before do that select all that is in css
+once we do that - we can get that automatically get the auto prefixer
+
+click install and then go to the uninstall version and click install another version and then install the v3.0.0 version
+
+
+Deploying project using continuous deployment - using Netlify
+
+make use of the Netlify
+- in order to ensure continous deployment, makesure set that as Github repositories
+
+create repositories just as taught as in the Github section
